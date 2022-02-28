@@ -27,8 +27,13 @@ There is a bulleted list that describes the balanced accuracy score and the prec
 <img width="662" alt="Screen Shot 2022-02-27 at 10 38 38 PM" src="https://user-images.githubusercontent.com/92963227/155930137-07885659-2667-42c8-a487-67de8beebf19.png">
 
 * Balanced Random Forest Classifier Results: The balanced accuracy score is . The precision is and the recall score is .
+
+<img width="658" alt="Screen Shot 2022-02-27 at 10 40 05 PM" src="https://user-images.githubusercontent.com/92963227/155930224-3150fa32-58cd-45a5-b9fb-4f0b2476ac31.png">
+
+
 * Easy Ensemble AdaBoost Classifier Results: The balanced accuracy score is . The precision is and the recall score is .
 
+<img width="650" alt="Screen Shot 2022-02-27 at 10 40 15 PM" src="https://user-images.githubusercontent.com/92963227/155930220-e0f0f0cd-7cca-4ad2-8ac0-abc22af7037b.png">
 
 
 ## Summary:
