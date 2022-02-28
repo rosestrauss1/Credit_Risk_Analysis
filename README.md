@@ -8,8 +8,6 @@ The purpose of this analysis is to compare two new machine learning models that 
 
 * Naive Random Oversampling: The balanced accuracy score is 66%. The precision is and the recall score is .
 
-<img width="432" alt="Screen Shot 2022-02-27 at 10 45 13 PM" src="https://user-images.githubusercontent.com/92963227/155930704-21b522cb-328d-4a53-9ae6-e8479e0bf55b.png">
-
 <img width="665" alt="Screen Shot 2022-02-27 at 10 37 51 PM" src="https://user-images.githubusercontent.com/92963227/155930099-db6bd8ef-2614-4ddc-ab78-b76b3f40d37d.png">
 
 
@@ -20,20 +18,13 @@ The purpose of this analysis is to compare two new machine learning models that 
 
 * Undersampling Results: The balanced accuracy score is 54%. The precision is 99% and the recall score is 69%.
 
-<img width="392" alt="Screen Shot 2022-02-27 at 10 45 26 PM" src="https://user-images.githubusercontent.com/92963227/155930723-c763b8db-90c4-4614-813c-3693a77a211e.png">
-
 <img width="672" alt="Screen Shot 2022-02-27 at 10 38 25 PM" src="https://user-images.githubusercontent.com/92963227/155930127-0d247c54-0ab2-4087-8e03-ed06a920176f.png">
 
 * Comination Results: The balanced accuracy score is 64%. The precision is  99% and the recall score is 40%.
 
-<img width="354" alt="Screen Shot 2022-02-27 at 10 45 36 PM" src="https://user-images.githubusercontent.com/92963227/155930735-8d8e5281-9c2e-4caa-b929-a9ba5c0f8694.png">
-
-
 <img width="662" alt="Screen Shot 2022-02-27 at 10 38 38 PM" src="https://user-images.githubusercontent.com/92963227/155930137-07885659-2667-42c8-a487-67de8beebf19.png">
 
 * Balanced Random Forest Classifier Results: The balanced accuracy score is . The precision is 99% and the recall score is 57%.
-
-<img width="359" alt="Screen Shot 2022-02-27 at 10 45 47 PM" src="https://user-images.githubusercontent.com/92963227/155930753-0df08247-8668-4e0f-8611-c4c2f5922cb8.png">
 
 <img width="658" alt="Screen Shot 2022-02-27 at 10 40 05 PM" src="https://user-images.githubusercontent.com/92963227/155930224-3150fa32-58cd-45a5-b9fb-4f0b2476ac31.png">
 
