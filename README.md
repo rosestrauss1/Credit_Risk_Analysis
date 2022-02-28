@@ -8,12 +8,12 @@ The purpose of this analysis is to compare two new machine learning models that 
 
 There is a bulleted list that describes the balanced accuracy score and the precision and recall scores of all six machine learning models (15 pt)
 
-* Naive Random Oversampling
-* SMOTE Oversampling
-* Undersampling Results
-* Comination Results
-* Balanced Random Forest Classifier Results
-* Easy Ensemble AdaBoost Classifier Results
+* Naive Random Oversampling: The balanced accuracy score is . The precision is and the recall score is .
+* SMOTE Oversampling: The balanced accuracy score is . The precision is and the recall score is .
+* Undersampling Results: The balanced accuracy score is . The precision is and the recall score is .
+* Comination Results: The balanced accuracy score is . The precision is and the recall score is .
+* Balanced Random Forest Classifier Results: The balanced accuracy score is . The precision is and the recall score is .
+* Easy Ensemble AdaBoost Classifier Results: The balanced accuracy score is . The precision is and the recall score is .
 
 
 
