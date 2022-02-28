@@ -32,9 +32,3 @@ The purpose of this analysis is to compare two new machine learning models that 
 * Easy Ensemble AdaBoost Classifier Results: The balanced accuracy score is 93%. The precision is 99% and the recall score is 94%.
 
 <img width="650" alt="Screen Shot 2022-02-27 at 10 40 15 PM" src="https://user-images.githubusercontent.com/92963227/155930220-e0f0f0cd-7cca-4ad2-8ac0-abc22af7037b.png">
-
-
-## Summary:
-
-There is a summary of the results (2 pt)
-There is a recommendation on which model to use, or there is no recommendation with a justification (3 pt)
