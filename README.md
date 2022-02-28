@@ -29,7 +29,7 @@ The purpose of this analysis is to compare two new machine learning models that 
 <img width="658" alt="Screen Shot 2022-02-27 at 10 40 05 PM" src="https://user-images.githubusercontent.com/92963227/155930224-3150fa32-58cd-45a5-b9fb-4f0b2476ac31.png">
 
 
-* Easy Ensemble AdaBoost Classifier Results: The balanced accuracy score is . The precision is and the recall score is .
+* Easy Ensemble AdaBoost Classifier Results: The balanced accuracy score is . The precision is 99% and the recall score is 94%.
 
 <img width="650" alt="Screen Shot 2022-02-27 at 10 40 15 PM" src="https://user-images.githubusercontent.com/92963227/155930220-e0f0f0cd-7cca-4ad2-8ac0-abc22af7037b.png">
 
