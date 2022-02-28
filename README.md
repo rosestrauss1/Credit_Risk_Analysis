@@ -6,8 +6,6 @@ The purpose of this analysis is to compare two new machine learning models that 
 
 ## Results:
 
-There is a bulleted list that describes the balanced accuracy score and the precision and recall scores of all six machine learning models (15 pt)
-
 * Naive Random Oversampling: The balanced accuracy score is . The precision is and the recall score is .
 
 <img width="665" alt="Screen Shot 2022-02-27 at 10 37 51 PM" src="https://user-images.githubusercontent.com/92963227/155930099-db6bd8ef-2614-4ddc-ab78-b76b3f40d37d.png">
